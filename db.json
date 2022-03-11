@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "phone": "97837873445",
+      "address": "UK",
+      "id": 3
+    },
+    {
+      "name": "James",
+      "email": "james@gmail.com",
+      "phone": "98393838887",
+      "address": "USA",
+      "id": 4
+    },
+    {
+      "name": "Jenny Han",
+      "email": "jenny@gmail.com",
+      "phone": "876766688",
+      "address": "Italy",
+      "id": 5
+    },
+    {
+      "name": "Vishal",
+      "email": "vishal@gmail.com",
+      "phone": "878768786",
+      "address": "Japan",
+      "id": 7
+    },
+    {
+      "name": "Sanjana Rao",
+      "email": "sanjana.rao@ymedialabs.com",
+      "phone": "9740826668",
+      "address": "India",
+      "id": 9
+    }
+  ]
+}
